@@ -1,10 +1,9 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
-
 tbody tr {
-  height: 6em;
+  height: 9.75em;
 }
 
 td {
@@ -15,14 +14,61 @@ th {
   border: solid 1px #ccc;
 }
 
-
 .entry {
-  padding: .5em;
-  background-color: #f2f2f2;
-  border: solid 1px #666;
   border-radius: 8px;
 }
 
 .e-1 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  color: #333;
+}
+
+.e-2 {
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  color: #991919;
+}
+
+.e-3 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  color: #333;
+}
+
+.e-4 {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  color: #51603f;
+}
+
+.e-5 {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  color: #51603f;
+}
+
+.e-6 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  color: #333;
+}
+
+
+.e-7 {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  color: #38448e;
+}
+
+.e-8 {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  color: #38448e;
+}
+
+.e-9 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
   color: #333;
 }
